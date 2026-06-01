@@ -14,6 +14,14 @@ AI Engineering · Full-Stack Development · LLM Systems
 
 ---
 
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavd33p&layout=compact&theme=dark&hide_border=true&langs_count=8)
+
+</div>
+
+---
+
 ## Skills
 
 **Languages**
