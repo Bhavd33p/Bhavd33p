@@ -16,9 +16,7 @@ AI Engineering · Full-Stack Development · LLM Systems
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhavd33p&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/Bhavd33p)
-&nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavd33p&layout=compact&theme=dark&hide_border=true&count_private=true)](https://github.com/Bhavd33p)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Bhavd33p&theme=dark&hide_border=true)](https://github.com/Bhavd33p)
 
 </div>
 
