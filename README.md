@@ -2,7 +2,7 @@
 
 # Bhavdeep Singh
 
-**Final-year B.Tech @ IIT Roorkee**
+**Software Engineer**
 
 AI Engineering · Full-Stack Development · LLM Systems
 
@@ -16,7 +16,7 @@ AI Engineering · Full-Stack Development · LLM Systems
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Bhavd33p&theme=dark&hide_border=true)](https://github.com/Bhavd33p)
+[![Bhavd33p's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhavd33p&theme=react-dark&hide_border=true&area=true&radius=8)](https://github.com/Bhavd33p)
 
 </div>
 
