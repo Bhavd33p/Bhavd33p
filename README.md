@@ -14,14 +14,6 @@ AI Engineering · Full-Stack Development · LLM Systems
 
 ---
 
-<div align="center">
-
-[![Bhavd33p's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhavd33p&theme=react-dark&hide_border=true&area=true&radius=8)](https://github.com/Bhavd33p)
-
-</div>
-
----
-
 ## Skills
 
 **Languages**
