@@ -28,27 +28,6 @@
 
 ---
 
-## Open Source — Kubeflow
-
-**[kubeflow/kale](https://github.com/kubeflow/kale)** — notebook-to-pipeline toolchain
-
-| PR | State | What |
-|---|---|---|
-| [#866](https://github.com/kubeflow/kale/pull/866) | ✅ **merged** | Configurable production PyPI index via `KALE_PYPI_PROD_URL`, removing a hardcoded endpoint from the release path |
-| [#842](https://github.com/kubeflow/kale/pull/842) | ✅ **merged** | Collapsed two deploy-progress abstractions into one |
-| [#865](https://github.com/kubeflow/kale/pull/865) | 🔄 open | CLI support compiling notebooks into native Kubernetes manifests |
-| [#935](https://github.com/kubeflow/kale/pull/935) | 🔄 open | Removed enum drift between Python and TypeScript definitions by deriving both from one JSON source |
-| [#934](https://github.com/kubeflow/kale/pull/934) | 🔄 open | Block invalid pipeline step names at input instead of warning after they reach metadata |
-| [#906](https://github.com/kubeflow/kale/pull/906) | 🔄 open | Clear error when the pipeline backend is unreachable |
-
-**[kubeflow/notebooks](https://github.com/kubeflow/notebooks)** — ML workspace platform
-
-| PR | State | What |
-|---|---|---|
-| [#1204](https://github.com/kubeflow/notebooks/pull/1204) | 🔄 open | Workspace auto-pause countdown — culling-deadline computation against the `WorkspaceKind` CRD `cullingConfig` contract, with a 9-case unit suite |
-
----
-
 ## Building Now
 
 🎛️ **Model Serving Platform on Kubernetes**
