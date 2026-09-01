@@ -21,10 +21,9 @@
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-> Software engineer working across backend, infrastructure and the systems layer in between —
-> Go, Python and TypeScript in production. Most of what I find interesting sits below the
-> feature: how things fail, where the boundaries are, and what holds up under load.
-> Contributor to **Kubeflow** (CNCF ecosystem).
+> Software engineer building backend and infrastructure — Go, Python and TypeScript in
+> production, from Kubernetes controllers to ML serving. Interested in how systems fail,
+> scale, and stay correct under pressure. Contributor to **Kubeflow** (CNCF ecosystem).
 
 ---
 
