@@ -130,19 +130,11 @@ validation.
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhavd33p&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavd33p&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="160" />
-</p>
-
----
-
 ## Connect
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:singhbhavdeep364@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavdeep-singh-107b36252/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/wMPj0n1bvp/)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bhavd33p)
+
 **IIT Roorkee**, B.Tech 2026 · LeetCode peak **1853** · CodeChef peak **1647** (`Sirius3`) · 1000+ problems solved
