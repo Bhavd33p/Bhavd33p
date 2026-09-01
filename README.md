@@ -1,150 +1,148 @@
 <div align="center">
 
-# Bhavdeep Singh
+# Hi, I'm Bhavdeep 👋
 
-**Software Engineer**
+🛠️ **Software Engineer @ Newton School** | 🎓 **IIT Roorkee '26** | 📍 **India**
 
-AI Engineering · Full-Stack Development · LLM Systems
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavdeep-singh-107b36252/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:singhbhavdeep364@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Bhavd33p)
+**Infrastructure · Platform · Application Security**
 
 </div>
 
----
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-## Skills
-
-**Languages**
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2307405E.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**AI / ML**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging_Face-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
-![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-**Backend / APIs**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-**DevOps / Tools**
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+> I work on the layer underneath the product — sandboxing untrusted code, Kubernetes
+> controllers, and the security boundaries between a request and what it's allowed to touch.
+> Contributor to **Kubeflow** (CNCF ecosystem).
 
 ---
 
-## About
+## Open Source — Kubeflow
 
-I build AI systems that ship — from fine-tuning LLMs on custom hardware to full-stack apps with real auth and real users. I care about making things fast, reliable, and cost-efficient. Currently looking to join an early-stage team as a Software / AI Engineer where I can own features end-to-end.
+**[kubeflow/kale](https://github.com/kubeflow/kale)** — notebook-to-pipeline toolchain
 
----
+| PR | State | What |
+|---|---|---|
+| [#866](https://github.com/kubeflow/kale/pull/866) | ✅ **merged** | Configurable production PyPI index via `KALE_PYPI_PROD_URL`, removing a hardcoded endpoint from the release path |
+| [#842](https://github.com/kubeflow/kale/pull/842) | ✅ **merged** | Collapsed two deploy-progress abstractions into one |
+| [#865](https://github.com/kubeflow/kale/pull/865) | 🔄 open | CLI support compiling notebooks into native Kubernetes manifests |
+| [#935](https://github.com/kubeflow/kale/pull/935) | 🔄 open | Removed enum drift between Python and TypeScript definitions by deriving both from one JSON source |
+| [#934](https://github.com/kubeflow/kale/pull/934) | 🔄 open | Block invalid pipeline step names at input instead of warning after they reach metadata |
+| [#906](https://github.com/kubeflow/kale/pull/906) | 🔄 open | Clear error when the pipeline backend is unreachable |
 
-## Projects
+**[kubeflow/notebooks](https://github.com/kubeflow/notebooks)** — ML workspace platform
 
-### 🧠 Multi-Tenant LLM Serving Engine
-> *Production inference server — multiple LoRA adapters, one quantized base model*
-
-FastAPI server that hot-swaps between task-specific LoRA adapters (code generation, finance extraction) on a 4-bit quantized Qwen2.5 model. Trained adapters from scratch on Apple Silicon using custom data pipelines.
-
-- **4-bit NF4 quantization** — ~75% memory reduction, fits on consumer GPU/MPS
-- **O(1) adapter switching** — pointer swap at inference time, no reload overhead
-- **Streaming SSE responses** — token-by-token via `TextIteratorStreamer` + async FastAPI
-- **Full training pipeline** — data prep → LoRA fine-tuning → adapter serving in one repo
-
-`FastAPI` `PyTorch` `HuggingFace` `LoRA/PEFT` `BitsAndBytes` `Apple Silicon MPS`
-
-[→ View Repo](https://github.com/Bhavd33p/multi-tenant-llm-engine)
+| PR | State | What |
+|---|---|---|
+| [#1204](https://github.com/kubeflow/notebooks/pull/1204) | 🔄 open | Workspace auto-pause countdown — culling-deadline computation against the `WorkspaceKind` CRD `cullingConfig` contract, with a 9-case unit suite |
 
 ---
 
-### 🤖 AI TestCase Generator
-> *RAG pipeline that turns requirement docs into test cases*
+## Building Now
 
-Ingests SWAD/ICD/BRD documents and generates structured test cases using adaptive retrieval and feedback loops. Benchmarked on RTX 4090.
+🎛️ **Model Serving Platform on Kubernetes**
+A `kubebuilder` operator managing the serving lifecycle of ML models through a custom
+`InferenceService` CRD — reconcile loop, finalizers, owner references, status subresources.
+Artifact pulls from S3-compatible storage with readiness gated on model-load completion,
+canary rollout with traffic splitting, autoscaling on inference queue depth rather than CPU.
 
-- Adaptive RAG with vector search over requirement chunks
-- Human-in-the-loop feedback for iterative refinement
-- Cuts manual test case writing by ~70–80%
+`Go` · `kubebuilder` · `controller-runtime` · `Kubernetes` · `Prometheus` · `MinIO`
 
-`Python` `LangChain` `RAG` `Vector DBs` `FastAPI`
+📡 **Reliable UDP Transport Protocol**
+A connection-oriented transport over UDP: state machine, selective-repeat ARQ with SACK,
+sliding-window flow control, Jacobson/Karels RTT estimation with adaptive RTO. Pluggable
+congestion control behind one interface, and per-stream configurable reliability — reliable,
+unreliable, or deadline-bounded — so latency-sensitive traffic bypasses the head-of-line
+blocking TCP enforces. Benchmarked against TCP and raw UDP under `tc netem`.
 
-[→ View Repo](https://github.com/Bhavd33p/TestCase_Generator)
-
----
-
-### 💬 PDF Converse
-> *Multi-user collaborative chat over any PDF*
-
-Upload a PDF, ask questions, get grounded answers. Multiple users, multiple threads, all indexed and retrieved with semantic search.
-
-- Chunking + embeddings + conversational retrieval chain
-- Multi-user session management with isolated threads
-- Answers grounded strictly in uploaded document context
-
-`Python` `LangChain` `Vector Embeddings` `FastAPI` `React`
-
-[→ View Repo](https://github.com/Bhavd33p/PDF-Converse)
+`C++` · `UDP` · `tc/netem` · `Prometheus` · `GitHub Actions`
 
 ---
 
-### ✅ Mini Task Manager
-> *Full-stack project management with role-based auth*
+## Shipped
 
-End-to-end task and project management system. Clean API, JWT auth, role separation, due dates.
+⏱️ **TimeTracker** — 🔴 **[live at timetracker-day.vercel.app](https://timetracker-day.vercel.app/)**
+Plan a day in time blocks, keep tasks beside them, and see where the week actually went.
+An installable PWA that works fully offline and syncs to Firestore on sign-in. The service
+worker is **network-first over content-hashed assets** — so a new deploy reaches an already
+installed app on its next online open, with no precache manifest to keep in step.
 
-- .NET backend + React + TypeScript frontend
-- JWT authentication with role-based access control
-- User-scoped projects and tasks with due date tracking
+`React` · `Vite` · `Firebase / Firestore` · `PWA` · `service worker` · `Vercel`
 
-`.NET` `React` `TypeScript` `JWT` `PostgreSQL`
+🏦 **[FinTech Multi-Agent System](https://github.com/Bhavd33p/FinTech-Multi-Agent-System-)**
+Five specialist agents — financial analysis, risk scoring, portfolio allocation, fraud detection,
+regulatory compliance — behind an orchestrator doing intent classification and running them
+standalone, sequentially or in parallel. Wrapped in real guardrails: **prompt-injection detection**
+across 15+ pattern rules, PII redaction and disallowed-topic blocking on input; disclaimer
+injection, hallucination detection and length bounding on output. Compliance covers RBI, SEBI,
+PMLA, FEMA and the DPDP Act.
 
-[→ View Repo](https://github.com/Bhavd33p/Mini-Task-Manager)
+`Python` · `Claude SDK` · `tool use` · `guardrails`
+
+⚡ **Multi-Adapter LLM Serving Infrastructure**
+Single-process inference server hosting two LoRA adapters on a shared Qwen-2.5 base with
+header-based routing and runtime hot-swapping, removing the cost of one GPU deployment per
+model. 4-bit NF4 quantization cut memory footprint **68%**, sustaining 15–30 tok/s at
+**sub-500ms** time-to-first-token, with token-level streaming.
+
+`Python` · `FastAPI` · `PyTorch` · `QLoRA` · `Transformers`
+
+📋 **[Mini Task Manager](https://github.com/Bhavd33p/Mini-Task-Manager)**
+Full-stack project management system — .NET backend, React + TypeScript frontend, JWT auth and
+user-scoped projects. Containerized end to end with separate backend and frontend images,
+docker-compose orchestration and an nginx reverse proxy.
+
+`C#` · `.NET` · `React` · `TypeScript` · `Docker` · `nginx`
+
+🚕 **[Pink Taxi](https://github.com/Bhavd33p/pink-taxi)**
+Ride-hailing app built around women's safety in India — Flutter client, Firebase backend,
+Cloud Functions.
+
+`Flutter` · `Dart` · `Firebase`
+
+📄 **[PDF Converse](https://github.com/Bhavd33p/PDF-Converse)** · ✍️ **[Web Annotator](https://github.com/Bhavd33p/Web-Annotator)**
+Retrieval-based question answering over uploaded PDFs; and a browser extension for highlighting,
+underlining and annotating text on any web page.
+
+`Python` · `JavaScript`
 
 ---
 
-### 🖊️ Web Annotator
-> *Browser extension for in-place web annotation*
+## Experience
 
-Chrome extension to highlight, underline, and annotate text on any webpage — saved persistently per-URL.
+**Newton School** — Software Engineer · *June 2026 – present*
+Backend and platform work across Python/Django, Go and TypeScript — sandboxed execution of
+untrusted code, distributed task correctness, API performance, and application security.
 
-`JavaScript` `Chrome Extensions API` `DOM Manipulation`
-
-[→ View Repo](https://github.com/Bhavd33p/Web-Annotator)
+**Zinnia Digital Services** — Software Engineering Intern · *May – July 2025*
+Document ingestion and embedding pipelines over ChromaDB, and REST APIs for inference and
+validation.
 
 ---
 
-## What I'm Looking For
+## GitHub Activity
 
-Open to **Software Engineer** or **AI Engineer** roles at early-stage companies where I can:
-- Own features from problem definition through design to production
-- Build reliable, cost-efficient LLM systems and internal tooling
-- Work on teams that move fast and care about quality
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhavd33p&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavd33p&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="160" />
+</p>
 
-📬 **singhbhavdeep364@gmail.com** · [LinkedIn](https://www.linkedin.com/in/bhavdeep-singh-107b36252/)
+---
+
+## Connect
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:singhbhavdeep364@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavdeep-singh-107b36252/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/wMPj0n1bvp/)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bhavd33p)
+**IIT Roorkee**, B.Tech 2026 · LeetCode peak **1853** · CodeChef peak **1647** (`Sirius3`) · 1000+ problems solved
