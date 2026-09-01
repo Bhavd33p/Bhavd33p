@@ -21,10 +21,10 @@
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-> Backend and infrastructure engineer. I spend my time on the parts that fail quietly —
-> confining untrusted code with Linux namespaces, writing Kubernetes controllers, and closing
-> the gap between what a request asks for and what it is actually allowed to touch.
-> Go and Python in production; contributor to **Kubeflow** (CNCF ecosystem).
+> Software engineer working across backend, infrastructure and the systems layer in between —
+> Go, Python and TypeScript in production. Most of what I find interesting sits below the
+> feature: how things fail, where the boundaries are, and what holds up under load.
+> Contributor to **Kubeflow** (CNCF ecosystem).
 
 ---
 
